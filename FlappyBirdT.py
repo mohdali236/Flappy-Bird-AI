@@ -1,3 +1,6 @@
+Muhammad Ali
+Project Flappy Bird AI
+
 import neat.population
 import pygame
 import neat
